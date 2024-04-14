@@ -7,7 +7,7 @@ As an aspiring Front-End Developer, I'm passionate about building seamless user 
 
 ### 🥁 & 💻 About Me:
 - Portfolio Website: https://almlli-portfolio.netlify.app/. Built with Vue.js, this website showcases my development skills and projects, and will be updated as more projects are built.
-- [Drumming Blog Website](https://taupe-medovik-72ed9d.netlify.app/)
+- **[Drumming Blog Website](https://taupe-medovik-72ed9d.netlify.app/)** - A dynamic blog platform built with JavaScript, leveraging the WordPress REST API for content management.
 - A website built with Next.js for my band [Main Street Revival](https://www.msrbandofficial.com/).
 - Open to collaboration and opportunities, let's connect: [LinkedIn](https://linkedin.com/in/christian-almli-4b82b8196) or via email (chrisalm97@gmail.com).
 
