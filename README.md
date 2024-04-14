@@ -1,15 +1,17 @@
 ![github-header-image(2)](https://github.com/chralmli/chralmli/assets/59100233/dc06609f-3e0b-4b60-b2db-faf1e886a2c5)
-## Aspiring Front-End Developer & Passionate Musician
+## Aspiring Front-End Developer
 
-I'm currently deep into my journey at Noroff, where I'm wrapping up my first year and eagerly anticipating the second. Coding has become more than just a study, it's a canvas for my creativity.
+### Hi there 👋, I'm Christian Almli!
+
+As an aspiring Front-End Developer, I'm passionate about building seamless user experiences and engaging interfaces. I am in my final year at Noroff, where I have honed my skills and am preparing to make a significant impact in the tech industry. Coding for me is not just about writing code, but crafting experiences that make a difference.
 
 ### 🥁 & 💻 About Me:
-- I recently developed a [Drumming Blog Website](https://taupe-medovik-72ed9d.netlify.app/), a project that resonates with my dual love for rhythm and code.
-- When I'm not immersed in coursework, I'm exploring the synergies of Vue.js and Next.js.
-- Drumming isn't just a hobby, it's a part of who I am. Catch the beat with my band, [Main Street Revival](https://www.msrbandofficial.com/).
+- Portfolio Website: https://almlli-portfolio.netlify.app/. Built with Vue.js, this website showcases my development skills and projects, and will be updated as more projects are built.
+- [Drumming Blog Website](https://taupe-medovik-72ed9d.netlify.app/)
+- A website built with Next.js for my band [Main Street Revival](https://www.msrbandofficial.com/).
 - Open to collaboration and opportunities, let's connect: [LinkedIn](https://linkedin.com/in/christian-almli-4b82b8196) or via email (chrisalm97@gmail.com).
 
-### 🚀 Technologies & Tools:
+### 🚀 Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,4 +21,7 @@ I'm currently deep into my journey at Noroff, where I'm wrapping up my first yea
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat&logo=cypress&logoColor=white)
 
-Feel free to reach out! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chralmli&layout=compact)
+
+
+Feel free to reach out!
