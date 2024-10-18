@@ -8,6 +8,7 @@ I'm an aspiring Front-End Developer passionate about building seamless user expe
 **🚀 Check out my latest projects:**
 
 *   **[Portfolio Website](https://almlli-portfolio.netlify.app/)**: Built with Vue.js, this site showcases my skills and projects. I'm constantly updating it with my newest work!
+*   **[Crimson Cart](https://crimson-cart.netlify.app/):** A full-featured e-commerce store built with React and TypeScript. [Github Repo](https://github.com/chralmli/front-end-frameworks-ca)
 *   **[Drumming Blog Website](link-to-your-blog)**: A dynamic blog platform built with JavaScript and the WordPress REST API. I focused on performance optimization and SEO to reach a wider audience.
 *   **[Main Street Revival Website](link-to-band-website)**: Developed with Next.js, this site features a modern design and interactive elements to engage fans.
 
